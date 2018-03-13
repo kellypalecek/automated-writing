@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css">
+ </head>
+
+<body>
+
+<h1> Automated Writing Training Site </h1>
+
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+
+<p> Lesson 1: What is automated writing?
+
+Text and info for this lesson here
+
+ </p>
+
+</body>

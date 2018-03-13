@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css">
+ </head>
+
+<body>
+
+<h1> Automated Writing Training Site </h1>
+
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+
+<p> INTRODUCTION TEXT
+
+Welcome to the training site for automated writing tools. On this site, you will have the opportunity to explore five different lessons related to automated writing and learn what the tool can do for you. In each lesson, you will encounter knowledge checkpoints that will test your retention of the materials. At the end of the training, you will have the option to pursue further information and to view static resource materials.
+
+ </p>
+
+</body>
